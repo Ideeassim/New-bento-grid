@@ -91,11 +91,7 @@ picture{
     background-color: rgb(255, 255, 255);
     /* padding: 10%; */
 }
-.box-2>div{
-    /* width: 316.08px;
-height: 66.54px; */
 
-}
 .box-2>div>img{
     max-width: 100%;
 }
