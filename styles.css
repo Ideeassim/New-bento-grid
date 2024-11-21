@@ -178,7 +178,9 @@ text-align: center;
    justify-content: center;
   padding-top: 40px;
 }
-
+.followers>img{
+    max-width: 100%;
+}
 .grow>p{
     
 color: rgb(255, 255, 255);
@@ -214,6 +216,9 @@ line-height: 20px;
 letter-spacing: 0px;
 text-align: left;
 }
+.audience>img{
+    max-width: 100%;
+}
 
 /* box-7 */
 .box-7{
@@ -235,6 +240,9 @@ padding: 32px;
 .content>p>span{
     color: rgb(117, 81, 220);
 }
+.create-post>img{
+    max-width: 100%;
+}
 
 /* box-8 */
 .box-8{
@@ -252,6 +260,9 @@ font-weight: 550;
 line-height: 40px;
 letter-spacing: -6%;
 text-align: left;
+}
+.ai-content>img{
+    max-width: 100%;
 }
 
 /* TABLET MEDIA QUERY */
