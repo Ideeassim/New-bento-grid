@@ -18,9 +18,9 @@
 .grid-con{
     display: flex;
    flex-direction: column;
-    padding: 30px;
-    margin: 15px; 
-    gap: 32px;
+    padding: 1.875rem;
+    margin: 0.94rem; 
+    gap: 2rem;
     flex: 1;
 }
 
@@ -29,18 +29,18 @@
 }
 
 .gbox{
-    border-radius: 10px;
+    border-radius: 0.6rem;
 }
 /* box-1 */
 .box-1{
     background-color: rgb(117, 81, 220);
     display: flex;
     flex-direction: column;
-    padding: 40px 32px 40px 32px;
+    padding: 3rem 2rem 3rem 2rem;
     text-align: center;
     font-family: 'DMSans';
     font-weight: 500;
-    line-height: 42px;
+    line-height: 3rem;
     gap: 20;
     border-radius: 10px;
 }
@@ -57,11 +57,11 @@
 .mobile-social-txt{
 margin-top: 0px;
 margin-bottom: 0px;
-font-size:35px;
+font-size:30px;
 font-weight: 500;
 color: white; 
 margin-bottom:5%; 
-border: solid red;
+
 
 }
 .tab-social-txt{
@@ -73,7 +73,7 @@ border: solid red;
     color:  rgb(255, 204, 106);
 }
 .star{
-    font-size: 18px;
+    font-size: 13px;
     color: white;
     /* border: solid black; */
     margin-top: 0%;
@@ -109,8 +109,8 @@ color: rgb(18, 18, 18);
     font-family: 'DMSans';
 font-size: 23px;
 font-weight: 550;
-line-height: 39px;
-letter-spacing: -1px;
+line-height: 26px;
+letter-spacing: -2px;
 text-align: left;
 }
 
@@ -124,8 +124,8 @@ color: rgb(18, 18, 18);
 font-family: 'DMSans';
 font-size: 23px;
 font-weight: 550;
-line-height: 39px;
-letter-spacing: -1px;
+line-height: 26px;
+letter-spacing: -2px;
 text-align: left;
 }
 
@@ -163,9 +163,9 @@ padding-left: 15px;
 .Optimize>p{    
 color: rgb(18, 18, 18);
 font-family: 'DMSans';
-font-size: 18px;
+font-size: 0.625rem;
 font-weight: 400;
-line-height: 30px;
+line-height: 10px;
 letter-spacing: 0px;
 text-align: center;
 }
@@ -188,7 +188,7 @@ text-align: center;
     
 color: rgb(255, 255, 255);
 font-family: 'DMSans';
-font-size: 32px;
+font-size: 28px;
 font-weight: 500;
 line-height: 40px;
 letter-spacing: -6%;
@@ -208,7 +208,7 @@ text-align: center;
 font-family: 'DMSans';
 font-size: 46px;
 font-weight: 600;
-line-height: 42px;
+line-height: 3rem;
 letter-spacing: -4%;
 text-align: left;
 }
@@ -261,7 +261,7 @@ padding: 32px;
 .write-mobile{
 font-size: 27px;
 font-weight: 600;
-line-height: 40px;
+line-height: 26px;
 letter-spacing: -1px;
 text-align: left;
 }
