@@ -36,13 +36,13 @@
     background-color: rgb(117, 81, 220);
     display: flex;
     flex-direction: column;
-    padding: 3rem 2rem 3rem 2rem;
+    padding: 1rem 2rem 1rem 2rem;
     text-align: center;
     font-family: 'DMSans';
     font-weight: 500;
     line-height: 3rem;
-    gap: 20;
-    border-radius: 10px;
+    gap: 0.6rem;
+    border-radius: 5%;
 }
 /* .social{
     font-size: 36px;
@@ -57,7 +57,7 @@
 .mobile-social-txt{
 margin-top: 0px;
 margin-bottom: 0px;
-font-size:30px;
+font-size:1.5rem;
 font-weight: 500;
 color: white; 
 margin-bottom:5%; 
@@ -73,13 +73,13 @@ margin-bottom:5%;
     color:  rgb(255, 204, 106);
 }
 .star{
-    font-size: 13px;
+    font-size: 0.8rem;
     color: white;
     /* border: solid black; */
     margin-top: 0%;
 }
 picture{
-    height: 35px;
+    height: 2.2rem;
 }
 .box-1>picture>img{
     /* border: solid black; */
@@ -104,28 +104,28 @@ color: rgb(18, 18, 18);
 
 }
 .multiple-accounts>p{
-    margin: 0px;
+    margin: 0%;
     padding: 3%;
     font-family: 'DMSans';
-font-size: 23px;
+font-size: 1rem;
 font-weight: 550;
 line-height: 26px;
-letter-spacing: -2px;
+letter-spacing: -1%;
 text-align: left;
 }
 
 /* box-3 */
 .box-3{
     background-color: rgb(255, 204, 106);
-    padding: 10%;
+    padding: 5%;
 }
 .maintain>p{
 color: rgb(18, 18, 18);
 font-family: 'DMSans';
-font-size: 23px;
+font-size: 1rem;
 font-weight: 550;
-line-height: 26px;
-letter-spacing: -2px;
+line-height: 1.6rem;
+letter-spacing: -1%;
 text-align: left;
 }
 
@@ -139,18 +139,18 @@ text-align: left;
 /* box-4 */
 .box-4{
     background-color: rgb(219, 209, 252);
-    padding: 10px 10px;
+    padding: 4%;
 }
 .schedule>p{
 color: rgb(18, 18, 18);
 font-family: 'DMSans';
-font-size: 23px;
+font-size: 1rem;
 font-weight: 550;
-line-height: 24px;
-letter-spacing: -1px;
+line-height: 1.5rem;
+letter-spacing: -1%;
 text-align: left;
 /* padding: 10px 32px; */
-padding-left: 15px;
+padding-left: 0.9rem;
 }
 .bestTime>img{
     max-width: 100%;
@@ -165,7 +165,7 @@ color: rgb(18, 18, 18);
 font-family: 'DMSans';
 font-size: 0.625rem;
 font-weight: 400;
-line-height: 10px;
+line-height: 1rem;
 letter-spacing: 0px;
 text-align: center;
 }
@@ -179,7 +179,7 @@ text-align: center;
 .followers{
    display: flex;
    justify-content: center;
-  padding-top: 40px;
+  padding-top: 10%;
 }
 .followers>img{
     max-width: 70%;
@@ -188,9 +188,9 @@ text-align: center;
     
 color: rgb(255, 255, 255);
 font-family: 'DMSans';
-font-size: 28px;
+font-size: 1.2rem;
 font-weight: 500;
-line-height: 40px;
+line-height: 1.2rem;
 letter-spacing: -6%;
 text-align: center;
 }
@@ -202,21 +202,21 @@ text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    padding: 20px
+    padding: 5%;
 }
 .fiftysix>h1{
 font-family: 'DMSans';
-font-size: 46px;
+font-size: 3rem;
 font-weight: 600;
-line-height: 3rem;
+line-height: 0.5rem;
 letter-spacing: -4%;
 text-align: left;
 }
 .fiftysix>p{
-font-size: 18px;
+font-size: 1.1rem;
 font-weight: 400;
-line-height: 20px;
-letter-spacing: 0px;
+line-height: 0.5rem;
+letter-spacing: -4%;
 text-align: left;
 }
 .audience>img{
@@ -230,14 +230,14 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: flex-start;
-gap: 24;
-padding: 20px;
+gap: 0.6rem;
+padding: 5%;
 }
 .content>h1{
     font-family: 'DMSans';
-    font-size: 27px;
+    font-size: 1.3rem;
     font-weight: 700;
-    line-height: 25px;
+    line-height: 1.5rem;
     letter-spacing: -1px;
     text-align: left;
 }
@@ -255,14 +255,14 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: flex-start;
-gap: 24;
-padding: 32px;
+gap: 0.6rem;
+padding: 5%;
 }
 .write-mobile{
-font-size: 27px;
+font-size: 1.3rem;
 font-weight: 600;
-line-height: 26px;
-letter-spacing: -1px;
+line-height: 1.5rem;
+letter-spacing: -5%;
 text-align: left;
 }
 .ai-content>img{
