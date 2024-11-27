@@ -10,8 +10,8 @@
     <div class="container">
         <div class='flex-container'>
             <div class="create">
-                <div><p>Create and schedule content quicker.</p></div>
-                <div><img src="./assets/images/createpost.webp" ></div>
+                <div><p>Create and <br>schedule content <span>quicker.</span></p></div>
+                <div class="create-post"><img src="./assets/images/createpost.webp" ></div>
             </div>
             <div class="write">
                 <div>
@@ -47,6 +47,8 @@
                     <p>Maintain a consistent <br> posting schedule.</p>
                 </div>
                 <picture class="consistent">
+                    <!-- desktop -->
+                     <source media="(min-width: 1025px )" srcset="./assets/images/consistentimg-crop.jpg">
                        <!-- tablet -->
                      <source media="(min-width: 768px)" srcset="./assets/images/illustration-consistent-schedule.webp">
                       <!-- mobile -->
@@ -55,16 +57,20 @@
                      
                 </picture>
             </div>
-            <div class="box-4 gbox">
+            <div class="box-4 gbox" style="overflow: hidden;">
                 <div class="schedule">
                     <p>Schedule to social media.</p>
                 </div>
-                <div class="bestTime">
-                    <img src="./assets/images/bestTime.webp" alt="">
-                </div>
+                <picture class="bestTime" >
+                    <!-- desktop -->
+                     <source media="(min-width: 1025px)" srcset="./assets/images/bestTime-crop.jpg" >
+                     <!-- mobile/tab -->
+                    <img src="./assets/images/bestTime.webp" alt="" style="border-radius: 1rem;">
+                </picture>
                 <div class="Optimize">
                     <p class="opt-mobile">Optimize post timings to publish<br> content at the perfect time<br> for your audience.</p>
                     <p class="opt-tablet">Optimize post timings to publish content<br> at the perfect time for your audience.</p>
+                    <p class="opt-desktop">Optimize post timings<br> to publish content<br> at the perfect time<br> for your audience.</p>
                 </div>
             </div>
             <div class="box-5 gbox">
